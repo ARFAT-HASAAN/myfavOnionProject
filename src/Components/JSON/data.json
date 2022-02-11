@@ -1,14 +1,146 @@
 [
   {
-    "name": "arfat",
-    "age": 21
+    "id": 1,
+    "title": "Begal and cream chees",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperioresquas consequatur enim provident? Amet quis quasi maiores minima viautem esse illo non.",
+    "picture": "https://i.ibb.co/JCDv08T/breakfast1.png",
+    "price": 80,
+    "type": "breakfast"
   },
   {
-    "name": "arfat",
-    "age": 21
+    "id": 2,
+    "title": "Breakfast sandwich",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit.Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperiores quas consequatur enim provident? Amet quis quasi maiores minima vitaeautem esse illo non.",
+    "picture": "https://i.ibb.co/j4HX2Pt/breakfast2.png",
+    "price": 90,
+    "type": "breakfast"
   },
   {
-    "name": "arfat",
-    "age": 21
+    "id": 3,
+    "title": "Baked Chiken",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperioresquas consequatur enim provident? Amet quis quasi maiores minima vitaeautem esse illo non.",
+    "picture": "https://i.ibb.co/3rxvX9j/breakfast3.png",
+    "price": 20,
+    "type": "breakfast"
+  },
+  {
+    "id": 4,
+    "title": "Eggs Benedict",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperioresquas consequatur enim provident? Amet quis quasi maiores minima vitaeautem esse illo non.",
+    "picture": "https://i.ibb.co/H4k9tGf/breakfast4.png",
+    "price": 420,
+    "type": "breakfast"
+  },
+  {
+    "id": 5,
+    "title": "Toast Croissant Fried Eggs",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit.Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperioresquas consequatur enim provident? Amet quis quasi maiores minima vitaeautem esse illo non.",
+    "picture": "https://i.ibb.co/0KGxjgn/breakfast5.png",
+    "price": 320,
+    "type": "breakfast"
+  },
+  {
+    "id": 6,
+    "title": "Frid Eggs Toat Brunch",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperiores quas consequatur enim provident? Amet quis quasi maiores minima vitae autem esse illo non.",
+    "picture": "https://i.ibb.co/9nHTGVp/breakfast6.png",
+    "price": 120,
+    "type": "breakfast"
+  },
+  {
+    "id": 7,
+    "title": "Healthy meal plan",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperiores quas consequatur enim provident? Amet quis quasi maiores minima vitae autem esse illo non.",
+    "picture": "https://i.ibb.co/dkm5Bgv/lunch1.png",
+    "price": 220,
+    "type": "lunch"
+  },
+  {
+    "id": 8,
+    "title": "Frid chiken Bento",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperiores quas consequatur enim provident? Amet quis quasi maiores minima vitae autem esse illo non.",
+    "picture": "https://i.ibb.co/kKK27Pv/lunch2.png",
+    "price": 300,
+    "type": "lunch"
+  },
+  {
+    "id": 9,
+    "title": "Traggod robot salmon",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperiores quas consequatur enim provident? Amet quis quasi maiores minima vitae autem esse illo non.",
+    "picture": "https://i.ibb.co/HDx0kHK/lunch3.png",
+    "price": 90,
+    "type": "lunch"
+  },
+  {
+    "id": 10,
+    "title": "indian lunch",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperiores quas consequatur enim provident? Amet quis quasi maiores minima vitae autem esse illo non.",
+    "picture": "https://i.ibb.co/mDPpxhc/lunch4.png",
+    "price": 50,
+    "type": "lunch"
+  },
+  {
+    "id": 11,
+    "title": "Frid toast lunch",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperiores quas consequatur enim provident? Amet quis quasi maiores minima vitae autem esse illo non.",
+    "picture": "https://i.ibb.co/dr4WnxP/lunch5.png",
+    "price": 30,
+    "type": "lunch"
+  },
+  {
+    "id": 12,
+    "title": "Rice meal",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperiores quas consequatur enim provident? Amet quis quasi maiores minima vitae autem esse illo non.",
+    "picture": "https://i.ibb.co/SwqW7zS/lunch6.png",
+    "price": 40,
+    "type": "lunch"
+  },
+  {
+    "id": 13,
+    "title": "Salmon with grafrut salad",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperiores quas consequatur enim provident? Amet quis quasi maiores minima vitae autem esse illo non.",
+    "picture": "https://i.ibb.co/vxmsbXy/dinner1.png",
+    "price": 60,
+    "type": "Dinner"
+  },
+  {
+    "id": 14,
+    "title": "lemony salmon piccata",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperiores quas consequatur enim provident? Amet quis quasi maiores minima vitae autem esse illo non.",
+    "picture": "https://i.ibb.co/xfFsWgj/dinner2.png",
+    "price": 440,
+    "type": "Dinner"
+  },
+  {
+    "id": 15,
+    "title": "pork tender lion",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperiores quas consequatur enim provident? Amet quis quasi maiores minima vitae autem esse illo non.",
+    "picture": "https://i.ibb.co/vkjjTnK/dinner3.png",
+    "price": 400,
+    "type": "Dinner"
+  },
+  {
+    "id": 16,
+    "title": "French fried with cheese",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperiores quas consequatur enim provident? Amet quis quasi maiores minima vitae autem esse illo non.",
+    "picture": "https://i.ibb.co/kQSxh1r/dinner4.png",
+    "price": 90,
+    "type": "Dinner"
+  },
+  {
+    "id": 17,
+    "title": "Garlic salmon with Butter",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperiores quas consequatur enim provident? Amet quis quasi maiores minima vitae autem esse illo non.",
+    "picture": "https://i.ibb.co/BL88cYb/dinner5.png",
+    "price": 340,
+    "type": "Dinner"
+  },
+  {
+    "id": 18,
+    "title": "Backed Chiken",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperiores quas consequatur enim provident? Amet quis quasi maiores minima vitae autem esse illo non.",
+    "picture": "https://i.ibb.co/nLnK5Cs/dinner6.png",
+    "price": 140,
+    "type": "Dinner"
   }
 ]
