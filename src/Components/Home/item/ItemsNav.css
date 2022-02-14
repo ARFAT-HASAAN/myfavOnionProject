@@ -1,0 +1,19 @@
+.itemsContainer {
+  /* width: 35%; */
+  margin: auto;
+  text-align: center;
+}
+
+.itemBtn {
+  border: none;
+  margin: 15px;
+  text-decoration: none;
+  color: black;
+  padding: 8px 5px;
+  background-color: white;
+  font-weight: bold;
+}
+.itemBtn:hover {
+  border-bottom: 2px solid #e51a4b;
+  color: #e51a4b;
+}

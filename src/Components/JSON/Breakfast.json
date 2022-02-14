@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Begal and cream chees",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperioresquas consequatur enim provident? Amet quis quasi maiores minima viautem esse illo non.",
+    "picture": "https://i.ibb.co/JCDv08T/breakfast1.png",
+    "price": 80,
+    "type": "breakfast"
+  },
+  {
+    "id": 2,
+    "title": "Breakfast sandwich",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit.Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperiores quas consequatur enim provident? Amet quis quasi maiores minima vitaeautem esse illo non.",
+    "picture": "https://i.ibb.co/j4HX2Pt/breakfast2.png",
+    "price": 90,
+    "type": "breakfast"
+  },
+  {
+    "id": 3,
+    "title": "Baked Chiken",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperioresquas consequatur enim provident? Amet quis quasi maiores minima vitaeautem esse illo non.",
+    "picture": "https://i.ibb.co/3rxvX9j/breakfast3.png",
+    "price": 20,
+    "type": "breakfast"
+  },
+  {
+    "id": 4,
+    "title": "Eggs Benedict",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperioresquas consequatur enim provident? Amet quis quasi maiores minima vitaeautem esse illo non.",
+    "picture": "https://i.ibb.co/H4k9tGf/breakfast4.png",
+    "price": 420,
+    "type": "breakfast"
+  },
+  {
+    "id": 5,
+    "title": "Toast Croissant Fried Eggs",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit.Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperioresquas consequatur enim provident? Amet quis quasi maiores minima vitaeautem esse illo non.",
+    "picture": "https://i.ibb.co/0KGxjgn/breakfast5.png",
+    "price": 320,
+    "type": "breakfast"
+  },
+  {
+    "id": 6,
+    "title": "Frid Eggs Toat Brunch",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperiores quas consequatur enim provident? Amet quis quasi maiores minima vitae autem esse illo non.",
+    "picture": "https://i.ibb.co/9nHTGVp/breakfast6.png",
+    "price": 120,
+    "type": "breakfast"
+  }
+]

@@ -1,0 +1,31 @@
+.BannerContainer {
+  background-image: url(../../../images/mybg.jpg);
+  width: 100%;
+  height: 100vh;
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+}
+
+.bannerContent {
+  width: 50%;
+  text-align: center;
+  margin: auto;
+  padding-top: 100px;
+}
+
+.Search-field {
+  padding: 10px 15px;
+  border-radius: 100px;
+  border: none;
+}
+
+.search-btn {
+  background-color: #e51a4b;
+  padding: 0px 22px;
+  text-align: center;
+  border-radius: 100px;
+  border: none;
+  outline: none;
+  color: white;
+  border: 2px solid black;
+}

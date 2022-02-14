@@ -1,0 +1,50 @@
+[
+  {
+    "id": 13,
+    "title": "Salmon with grafrut salad",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperiores quas consequatur enim provident? Amet quis quasi maiores minima vitae autem esse illo non.",
+    "picture": "https://i.ibb.co/vxmsbXy/dinner1.png",
+    "price": 60,
+    "type": "Dinner"
+  },
+  {
+    "id": 14,
+    "title": "lemony salmon piccata",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperiores quas consequatur enim provident? Amet quis quasi maiores minima vitae autem esse illo non.",
+    "picture": "https://i.ibb.co/xfFsWgj/dinner2.png",
+    "price": 440,
+    "type": "Dinner"
+  },
+  {
+    "id": 15,
+    "title": "pork tender lion",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperiores quas consequatur enim provident? Amet quis quasi maiores minima vitae autem esse illo non.",
+    "picture": "https://i.ibb.co/vkjjTnK/dinner3.png",
+    "price": 400,
+    "type": "Dinner"
+  },
+  {
+    "id": 16,
+    "title": "French fried with cheese",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperiores quas consequatur enim provident? Amet quis quasi maiores minima vitae autem esse illo non.",
+    "picture": "https://i.ibb.co/kQSxh1r/dinner4.png",
+    "price": 90,
+    "type": "Dinner"
+  },
+  {
+    "id": 17,
+    "title": "Garlic salmon with Butter",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperiores quas consequatur enim provident? Amet quis quasi maiores minima vitae autem esse illo non.",
+    "picture": "https://i.ibb.co/BL88cYb/dinner5.png",
+    "price": 340,
+    "type": "Dinner"
+  },
+  {
+    "id": 18,
+    "title": "Backed Chiken",
+    "pera": "Learn React Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis odio quibusdam corrupti dolores laboriosam. Veritatis asperiores quas consequatur enim provident? Amet quis quasi maiores minima vitae autem esse illo non.",
+    "picture": "https://i.ibb.co/nLnK5Cs/dinner6.png",
+    "price": 140,
+    "type": "Dinner"
+  }
+]

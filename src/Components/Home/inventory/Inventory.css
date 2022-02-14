@@ -1,0 +1,32 @@
+.formSection {
+  width: 30%;
+  padding: 20px;
+  margin: 20px auto;
+}
+
+form input {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 3px;
+  background-color: gainsboro;
+  margin: 5px 0px;
+}
+
+.imgContaner img {
+  width: 40%;
+  padding: 20px;
+  /* height: 100px; */
+  display: block;
+  margin: auto;
+}
+
+form input[type="submit"] {
+  background-color: #e51a4b;
+  padding: 10px 0px;
+  text-align: center;
+  border-radius: 3px;
+  border: none;
+  outline: none;
+  color: white;
+}
